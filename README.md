@@ -2,6 +2,7 @@ This repository contains a Python implementation of the classic Battleship game,
 
 ##Features
 ****Interactive Gameplay: Players can place their ships on a grid and take turns attacking each other's boards.
+
 ****Ship Placement: Ships can be placed either horizontally or vertically on the board.
 ****Attack Mechanism: Players can attack specific coordinates on the opponent's board, with hits and misses being marked accordingly.
 ****Game Over Detection: The game automatically detects when all ships of a player have been sunk, declaring the other player as the winner.
